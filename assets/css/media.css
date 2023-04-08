@@ -1,0 +1,70 @@
+/* @media only screen and (max-width: 800px) {
+    section.what-section {
+        background-color: lightgray;
+        height: 130vh !important;
+    }
+
+    .custom-container {
+        max-width: 100%;
+        row-gap: 35px;
+        flex-direction: column;
+    }
+
+    .banner-section .banner-content {
+        flex: 100% !important;
+        padding: 10px;
+    }
+
+    .banner-section {
+
+        height: 50vh !important;
+        width: 100%;
+    }
+
+    .banner-content h1 {
+        font-size: 1.9rem !important;
+        margin-bottom: 20px !important;
+    }
+
+    .logo-container span.icon {
+        font-size: 21px;
+        color: var(--span-clr);
+        margin-right: 5px;
+    }
+
+    .logo h2 {
+        font-size: 16px;
+    }
+
+    .contact-us {
+        flex-direction: column;
+    }
+
+    .contact-us .form {
+        padding: 3rem !important;
+    }
+
+    footer.copyright p {
+    
+        line-height: 1.8 !important;
+        font-size: 14px !important;
+    }
+
+    .who-section {
+        clip-path: none !important;
+        margin-top: 0rem !important;
+        flex-direction: column;
+        
+    }
+
+    .who-section .who-content .intro-who {
+        padding-top: 3rem !important;
+        padding: 1rem !important;
+    }
+
+     .who-section-team {
+        padding-left: 1rem;
+        color: white;
+    }
+
+  } */
